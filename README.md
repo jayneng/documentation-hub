@@ -16,9 +16,6 @@ The documentation hub is organized as follows:
 
 ### Key Features
 
-- **Responsive Design**: Ensures the documentation is viewable across devices.
-- **Collapsible Sections**: Allows users to expand and collapse long sections of documentation for readability.
-- **Internal Linking**: Links different sections of the documentation together for easy navigation.
 - **Multi-Language Support (Planned)**: Future versions may include multi-language options.
 - **Version Control**: Managed using GitHub, ensuring clear tracking of documentation updates.
 
